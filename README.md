@@ -1,6 +1,4 @@
-### 👋 Hey there, I'm Nejra Ćorić!
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2t6ajdwazNkb3F1dG1uOWJ5YXh2d2k0dXlndXU0cndyNWxpa3ZtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2aG4R2mUj5x4tT5Fm/giphy.gif" alt="Nejra working" width="450" />
+### 👋 Hey there, I'm Nejra Čorić!
 
 I am the **owner and lead developer** at **CodeLoop**, a company specializing in the development of modern **mobile and web applications**.
 
