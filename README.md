@@ -20,7 +20,7 @@ My work encompasses:
 ### 🛠️ Technologies I Work With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,python,flutter,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,python,flutter,kotlin,swift,docker" />
 </p>
 
 ---
