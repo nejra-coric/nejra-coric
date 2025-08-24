@@ -1,5 +1,9 @@
 ### 👋 Hey there, I'm Nejra Ćorić!
 
+<p align="left">
+  <img src="https://media.giphy.com/media/QvJ6y6aQ4d10P8r2k5/giphy.gif" alt="Coding GIF" width="500"/>
+</p>
+
 I am the **owner and lead developer** at **CodeLoop**, a company specializing in the development of modern **mobile and web applications**.
 
 With over **4 years of professional experience**, I've journeyed from a junior developer to a team leader, guiding the creation of innovative solutions for clients across the globe.
@@ -19,15 +23,16 @@ My work encompasses:
 ---
 ### 🛠️ Technologies I Work With
 
-These are just a few of the technologies I use in my work:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Vue.js, Angular, Next.js |
-| **Backend** | Node.js (Express), Python (Django/Flask), C# (.NET) |
-| **Mobile** | React Native, Flutter, Swift/Kotlin |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **Cloud & DevOps** | AWS, Docker, Kubernetes |
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+</p>
 
 ---
 ### 📈 GitHub Statistics
@@ -38,10 +43,8 @@ These are just a few of the technologies I use in my work:
 ---
 ### ✉️ Let's Connect
 
-You can find me on these platforms:
-
 * **Website:** [www.codeloop.ba](https://www.codeloop.ba)
-* **LinkedIn:** [linkedin.com/in/nejra_coric](www.linkedin.com/in/nejra-čorić-76398a21a)
+* **LinkedIn:** [linkedin.com/in/nejra-čorić-76398a21a](www.linkedin.com/in/nejra-čorić-76398a21a)
 * **Email:** [nejra.coric@codeloop.ba](mailto:nejra.coric@codeloop.ba)
 
 I'm always open to new collaborations and challenges!
