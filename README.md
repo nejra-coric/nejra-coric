@@ -24,13 +24,6 @@ My work encompasses:
 </p>
 
 ---
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-for-markdown.vercel.app/api/card?username=nejra-coric&theme=dark" alt="GitHub Profile Summary" />
-</p>
-
----
 ### ✉️ Let's Connect
 
 * **Website:** [www.codeloop.ba](https://www.codeloop.ba)
