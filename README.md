@@ -2,7 +2,7 @@
 
 I am the **owner and lead developer** at **CodeLoop**, a company specializing in the development of modern **mobile and web applications**.
 
-With over **4 years of professional experience**, I've journeyed from a junior developer to a team leader, guiding the creation of innovative solutions for clients across the globe.
+With over **5 years of professional experience**, I've journeyed from a junior developer to a team leader, guiding the creation of innovative solutions for clients across the globe.
 
 ---
 ### 🚀 My Projects & Passion
