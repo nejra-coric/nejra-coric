@@ -1,115 +1,162 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · nejra-coric</sub></p>
-<h1>Nejra Čorić</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Android &amp; iOS Developer</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Sarajevo · Building at CodeLoop</sub></p>
-<p><a href="https://github.com/nejra-coric">GitHub</a> &nbsp;·&nbsp; <a href="https://www.codeloop.ba">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/66847545?u=e2825be0b762f27eea8af161a851b8f5920f83d8&amp;v=4" width="180" alt="Nejra Čorić GitHub avatar" />
-</td>
-</tr>
-</table>
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=nejra-coric&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Sarajevo&v=readme-reference-2" width="100%" alt="Nejra Čorić profile banner" />
+
+<br/>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Android%20%26%20iOS%20Developer;Building%20with%20Kotlin%20%C2%B7%20Dart%20%C2%B7%20TypeScript;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+<br/>
+
+<a href="www.codeloop.ba"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/3_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="3 followers" />
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nejra-coric&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<table width="100%">
+## ⚡ whoami
+
+```typescript
+const nejra_coric: Developer = {
+  name:      "Nejra Čorić",
+  role:      "Frontend or full-stack engineer",
+  location:  "Sarajevo",
+  currently: "building in public",
+  stack:     ["Kotlin", "Dart", "TypeScript", "JavaScript", "HTML", "Python"],
+  mantra:    "Make useful things, then make them delightful 🚀",
+};
+```
+
+> Android &amp; iOS Developer
+> 
+> **Collaborations welcome when they are meaningful 🤝**
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nejra-coric&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin%2Cdart%2Ctypescript%2Cjavascript%2Chtml%2Cpython%2Ccss&perline=8&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+
+<img src="https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&amp;labelColor=0d1117" alt="Kotlin" /> <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&amp;labelColor=0d1117" alt="Dart" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&amp;labelColor=0d1117" alt="HTML" /> <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/CMake-DA3434?style=for-the-badge&amp;labelColor=0d1117" alt="CMake" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nejra-coric&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 🌌 Featured Projects
+
+<table>
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Kotlin · Dart · TypeScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>26 repositories · 1 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>442 contributions · 110 active days</p></td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<p><sub>Android &amp; iOS Developer</sub></p>
+**Todoist-HulkApps**
 
-<h2>Proof at a glance</h2>
+A featured build from this profile.
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>26</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>442</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+`Kotlin` · `1 stars`
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nejra-coric&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66847545%3Fu%3De2825be0b762f27eea8af161a851b8f5920f83d8%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=nejra-coric&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66847545%3Fu%3De2825be0b762f27eea8af161a851b8f5920f83d8%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Nejra Čorić GitHub proof metrics" />
-</picture>
-</p>
+<a href="https://github.com/nejra-coric/Todoist-HulkApps"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nejra-coric&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66847545%3Fu%3De2825be0b762f27eea8af161a851b8f5920f83d8%26v%3D4&repos=nejra-coric%2FTodoist-HulkApps%2Cnejra-coric%2FEarthquakeTask%2Cnejra-coric%2Ftagnet-test-react-native%2Cnejra-coric%2FTodoist-Hulkapps-Android&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=nejra-coric&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66847545%3Fu%3De2825be0b762f27eea8af161a851b8f5920f83d8%26v%3D4&repos=nejra-coric%2FTodoist-HulkApps%2Cnejra-coric%2FEarthquakeTask%2Cnejra-coric%2Ftagnet-test-react-native%2Cnejra-coric%2FTodoist-Hulkapps-Android&v=recruiter-projects-1&mode=dark" width="100%" alt="Nejra Čorić selected projects" />
-</picture>
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/nejra-coric/Todoist-HulkApps">Todoist-HulkApps</a></h3>
-<p>A selected public project.</p>
-<p><sub>Kotlin · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/nejra-coric/Todoist-HulkApps">Read the repository →</a></p>
+<td width="50%" valign="top">
+
+**EarthquakeTask**
+
+A featured build from this profile.
+
+`Java` · `0 stars`
+
+<a href="https://github.com/nejra-coric/EarthquakeTask"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**tagnet-test-react-native**
+
+A featured build from this profile.
+
+`JavaScript` · `0 stars`
+
+<a href="https://github.com/nejra-coric/tagnet-test-react-native"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**Todoist-Hulkapps-Android**
+
+A featured build from this profile.
+
+`Kotlin` · `0 stars`
+
+<a href="https://github.com/nejra-coric/Todoist-Hulkapps-Android"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/nejra-coric/EarthquakeTask">EarthquakeTask</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/nejra-coric/tagnet-test-react-native">tagnet-test-react-native</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/nejra-coric/Todoist-Hulkapps-Android">Todoist-Hulkapps-Android</a></h3><p>A selected public project.</p><p><sub>Kotlin · ⭐ 0</sub></p></td>
-</tr>
-</table>
+<details>
+<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
 
-<h2>Technical toolkit</h2>
+<br/>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=nejra-coric&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66847545%3Fu%3De2825be0b762f27eea8af161a851b8f5920f83d8%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=nejra-coric&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66847545%3Fu%3De2825be0b762f27eea8af161a851b8f5920f83d8%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Nejra Čorić technology stack" />
-</picture>
-</p>
+- **riba_ba_landing_page** — Featured work · <a href="https://github.com/nejra-coric/riba_ba_landing_page"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
+- **zenith_app** — Featured work · <a href="https://github.com/nejra-coric/zenith_app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Kotlin</strong><br /><sub>23% of public code</sub></td>
-<td width="20%" align="center"><strong>Dart</strong><br /><sub>17% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>12% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>12% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>11% of public code</sub></td>
-</tr>
-</table>
+</details>
 
-<h2>Consistency signal</h2>
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nejra-coric&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=nejra-coric&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
+
+<br/>
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=nejra-coric&theme=neon&style=aura" width="100%" alt="Contribution activity" />
+
+</div>
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nejra-coric&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=nejra-coric&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66847545%3Fu%3De2825be0b762f27eea8af161a851b8f5920f83d8%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=nejra-coric&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66847545%3Fu%3De2825be0b762f27eea8af161a851b8f5920f83d8%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Nejra Čorić contribution activity" />
-</picture>
+  <img src="https://www.gitskins.com/api/section/heatmap?username=nejra-coric&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F66847545%3Fu%3De2825be0b762f27eea8af161a851b8f5920f83d8%26v%3D4" alt="nejra-coric heatmap visual" />
 </p>
 
-<hr />
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nejra-coric&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/nejra-coric">GitHub</a><br /><a href="https://www.codeloop.ba">Website</a></td>
-</tr>
-</table>
+## 🏆 Beyond the Code
 
-<p align="center"><sub>Nejra Čorić · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+* 🧠 **Profile signal:** 442 contributions in the last year
+* 🚀 **Builder energy:** 26 public repositories
+* ⭐ **Community signal:** 1 stars across featured work
+* 🗣️ **Open to:** interesting collaborations and useful products
+
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=nejra-coric&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
+<div align="center">
+
+## 🤝 Let's Build Something Meaningful
+
+I build useful software and enjoy turning ambitious ideas into working products.
+
+<a href="www.codeloop.ba"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
+
+<br/><br/>
+
+***⭐ From [Nejra Čorić](https://github.com/nejra-coric) · built with code, AI & a little chaos 😈***
+
+</div>
